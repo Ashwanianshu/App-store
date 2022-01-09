@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-container{
+margin: 10px;
+padding: 10px;
+background-color: white;
+border-radius: 10px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 120px;
+
+}
+.logo{
+    height: 60px;
+    width: 60px;
+}
+.app-name{
+    font-size: 13px;
+    border-width: 600;
+}

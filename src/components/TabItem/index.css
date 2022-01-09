@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item{
+    border-bottom: 1px solid grey;
+
+}
+.btn{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: grey;
+    font-size: 18px;
+}
+.change{
+    border-bottom: 3px solid blue;
+}
+.color{
+    color: blue;
+}
